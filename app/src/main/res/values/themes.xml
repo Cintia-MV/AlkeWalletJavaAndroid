@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AlkeWalletJavaAndroid" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores -->
+        <item name="colorPrimary">@color/celeste</item>
+        <item name="colorSecondary">@color/verde</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="color">@color/plomoOscuro</item>
+
+    </style>
+
+    <style name="Theme.AlkeWalletJavaAndroid" parent="Base.Theme.AlkeWalletJavaAndroid" />
+</resources>
