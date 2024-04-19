@@ -2,6 +2,13 @@
     <string name="app_name">AlkeWalletJavaAndroid</string>
     <string name="alke_wallet">AlkeWallet</string>
     <string name="texto_p2">El lugar más seguro para tu dinero</string>
-    <string name="btn_crear_cta">Crear cuenta nueva</string>
+    <string name="crear_cuenta">Crear cuenta</string>
     <string name="tiene_cuenta">Ya tiene cuenta?</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Ingresa tu email</string>
+    <string name="clave">Contraseña</string>
+    <string name="clave_hint">Ingresa tu contraseña</string>
+    <string name="olvido_clave">Olvidaste tu contraseña?</string>
+
 </resources>
