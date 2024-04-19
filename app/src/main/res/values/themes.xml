@@ -7,6 +7,8 @@
         <item name="android:colorBackground">@color/white</item>
         <item name="color">@color/plomoOscuro</item>
 
+
+
     </style>
 
     <style name="Theme.AlkeWalletJavaAndroid" parent="Base.Theme.AlkeWalletJavaAndroid" />

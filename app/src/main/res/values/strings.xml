@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">AlkeWalletJavaAndroid</string>
     <string name="alke_wallet">AlkeWallet</string>
+    <string name="texto_p2">El lugar más seguro para tu dinero</string>
+    <string name="btn_crear_cta">Crear cuenta nueva</string>
+    <string name="tiene_cuenta">Ya tiene cuenta?</string>
 </resources>
