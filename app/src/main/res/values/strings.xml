@@ -10,5 +10,12 @@
     <string name="clave">Contraseña</string>
     <string name="clave_hint">Ingresa tu contraseña</string>
     <string name="olvido_clave">Olvidaste tu contraseña?</string>
+    <string name="titulo_p4">Registrarse y empezar a transferir</string>
+    <string name="nombre">Nombre</string>
+    <string name="nombre_hint">Ingresar nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="apellido_hint">Ingresar apellido</string>
+    <string name="reingresar_clave">Reingresar contraseña</string>
+    <string name="reingr_clave_int">Reingresar contraseña</string>
 
 </resources>

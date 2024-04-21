@@ -11,22 +11,26 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-public class LoginPage extends AppCompatActivity {
+public class SingUnPage extends AppCompatActivity {
 
-    TextView crearCuenta;
+    TextView login;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login_page);
+        setContentView(R.layout.activity_sing_un_page);
 
-        crearCuenta = findViewById(R.id.crearCuentaP3);
+        login = findViewById(R.id.loginP4);
 
-        crearCuenta.setOnClickListener(new View.OnClickListener() {
+        login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent crearCuenta = new Intent(LoginPage.this, LoginSingup.class);
-                startActivity(crearCuenta);
+                Intent login = new Intent(SingUnPage.this, LoginPage.class);
+                startActivity(login);
             }
         });
+
+
+
+
     }
 }
