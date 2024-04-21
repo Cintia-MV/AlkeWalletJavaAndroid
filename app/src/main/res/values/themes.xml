@@ -4,11 +4,8 @@
         <!-- Colores -->
         <item name="colorPrimary">@color/celeste</item>
         <item name="colorSecondary">@color/verde</item>
-        <item name="android:colorBackground">@color/white</item>
         <item name="color">@color/plomoOscuro</item>
-
-
-
+        <item name="colorAccent">@color/colorAccent</item>
     </style>
 
     <style name="Theme.AlkeWalletJavaAndroid" parent="Base.Theme.AlkeWalletJavaAndroid" />

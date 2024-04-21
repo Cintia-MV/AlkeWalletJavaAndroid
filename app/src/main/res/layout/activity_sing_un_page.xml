@@ -18,8 +18,8 @@
 
         <LinearLayout
             android:id="@+id/linearLayout"
-            android:layout_width="356dp"
-            android:layout_height="483dp"
+            android:layout_width="350dp"
+            android:layout_height="480dp"
             android:orientation="vertical"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
@@ -56,7 +56,7 @@
                 android:fontFamily="@font/jua"
                 android:hint="@string/nombre_hint"
                 android:inputType="text"
-                android:paddingStart="8dp"/>
+                android:paddingStart="8dp" />
 
             <TextView
                 android:id="@+id/apellidoP4"
@@ -75,7 +75,7 @@
                 android:fontFamily="@font/jua"
                 android:hint="@string/apellido_hint"
                 android:inputType="text"
-                android:paddingStart="8dp"/>
+                android:paddingStart="8dp" />
 
             <TextView
                 android:id="@+id/emailP4"
@@ -94,7 +94,7 @@
                 android:fontFamily="@font/jua"
                 android:hint="@string/email_hint"
                 android:inputType="textEmailAddress"
-                android:paddingStart="8dp"/>
+                android:paddingStart="8dp" />
 
             <TextView
                 android:id="@+id/claveP4"
@@ -113,7 +113,7 @@
                 android:fontFamily="@font/jua"
                 android:hint="@string/clave_hint"
                 android:inputType="textPassword"
-                android:paddingStart="8dp"/>
+                android:paddingStart="8dp" />
 
             <TextView
                 android:id="@+id/textView7"
@@ -131,7 +131,7 @@
                 android:fontFamily="@font/jua"
                 android:hint="@string/reingr_clave_int"
                 android:inputType="textPassword"
-                android:paddingStart="8dp"/>
+                android:paddingStart="8dp" />
 
         </LinearLayout>
 

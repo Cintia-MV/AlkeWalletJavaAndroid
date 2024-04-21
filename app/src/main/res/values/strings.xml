@@ -17,5 +17,11 @@
     <string name="apellido_hint">Ingresar apellido</string>
     <string name="reingresar_clave">Reingresar contraseña</string>
     <string name="reingr_clave_int">Reingresar contraseña</string>
+    <string name="inicio">Inicio</string>
+    <string name="saludo">Hola, Arnold!</string>
+    <string name="saldo">Saldo Total</string>
+    <string name="Saldo_dinero">$350.000</string>
+    <string name="enviar_dinero">Enviar Dinero</string>
+    <string name="ingresar_dinero">Ingresar dinero</string>
 
 </resources>

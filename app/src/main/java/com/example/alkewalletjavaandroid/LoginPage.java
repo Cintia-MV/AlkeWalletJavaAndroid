@@ -19,7 +19,7 @@ public class LoginPage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login_page);
 
-        crearCuenta = findViewById(R.id.crearCuentaP3);
+        crearCuenta = findViewById(R.id.crearCtaP3);
 
         crearCuenta.setOnClickListener(new View.OnClickListener() {
             @Override
