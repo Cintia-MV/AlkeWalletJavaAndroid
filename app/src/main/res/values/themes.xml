@@ -7,6 +7,10 @@
         <item name="color">@color/plomoOscuro</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    
+    <style name="Base.Theme.AlkeWalletJavaAndroid.btn" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/verde</item>
+    </style>
 
     <style name="Theme.AlkeWalletJavaAndroid" parent="Base.Theme.AlkeWalletJavaAndroid" />
 </resources>

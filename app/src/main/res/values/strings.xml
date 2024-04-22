@@ -20,8 +20,32 @@
     <string name="inicio">Inicio</string>
     <string name="saludo">Hola, Arnold!</string>
     <string name="saldo">Saldo Total</string>
-    <string name="Saldo_dinero">$350.000</string>
     <string name="enviar_dinero">Enviar Dinero</string>
     <string name="ingresar_dinero">Ingresar dinero</string>
+    <string name="historial_trans">Ultimas transacciones</string>
+
+    <!-- Usuarios transacciones-->
+    <string name="user_1">Gerald Johanssen</string>
+    <string name="user_2">Helga Pataki</string>
+    <string name="user_3">Phillip Shortman</string>
+    <string name="user_4">Phoebe Heyerdahl</string>
+    <string name="user_5">Gertie Pookie</string>
+
+    <!-- Montos-->
+    <string name="Saldo_dinero">$350.000</string>
+    <string name="trans_1">-$15.000</string>
+    <string name="trans_2">+$44.000</string>
+    <string name="trans_3"> +$18.500</string>
+    <string name="trans_4">-$10.000</string>
+    <string name="trans_5">+$61.000</string>
+
+    <!-- Fecha transacciones-->
+    <string name="fecha_1">Oct 14, 10:24 AM</string>
+    <string name="fecha_2">Oct 12, 02:13 PM</string>
+    <string name="fecha_3">Oct 11, 11:19 AM</string>
+    <string name="fecha_4">Oct 07, 09:10 PM</string>
+    <string name="fecha_5">Oct 04, 08:45 AM</string>
+
+
 
 </resources>
