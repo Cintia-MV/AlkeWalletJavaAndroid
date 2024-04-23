@@ -33,6 +33,7 @@
     <string name="monto">Ingrese monto</string>
     <string name="notas">Notas de transferencia</string>
     <string name="mensaje_trans">Agregar notas de transferencia(opcional)</string>
+    <string name="cant_ingresar">Cantidad a ingresar</string>
 
 
     <!-- Usuarios -->
@@ -43,6 +44,7 @@
     <string name="user_4">Phoebe Heyerdahl</string>
     <string name="user_5">Gertie Pookie</string>
     <string name="email_user5">pookie4040@mail.com</string>
+    <string name="email_user1">geralps118@mail.com</string>
 
     <!-- Montos-->
     <string name="Saldo_dinero">$350.000</string>

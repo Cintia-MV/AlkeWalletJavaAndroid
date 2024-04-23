@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         btnLogo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent siguiente = new Intent(MainActivity.this, SendMoney.class);
+                Intent siguiente = new Intent(MainActivity.this, RequestMoney.class);
                 startActivity(siguiente);
             }
         });
