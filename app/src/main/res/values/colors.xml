@@ -9,5 +9,6 @@
     <color name="colorAccent">#D1CDCD</color>
     <color name="plomo">#494A4A</color>
     <color name="plomoClaro">#9E9E9E</color>
+    <color name="plomoMasClaro">#F3F4F5</color>
 
 </resources>
