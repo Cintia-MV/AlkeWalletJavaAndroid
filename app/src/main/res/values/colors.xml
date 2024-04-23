@@ -7,6 +7,7 @@
     <color name="plomoOscuro">#1A1A1A</color>
     <color name="verde">#8BF116</color>
     <color name="colorAccent">#D1CDCD</color>
-    <color name="plomoClaro">#494A4A</color>
+    <color name="plomo">#494A4A</color>
+    <color name="plomoClaro">#9E9E9E</color>
 
 </resources>

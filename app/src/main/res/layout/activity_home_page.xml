@@ -172,6 +172,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="20dp"
+                android:layout_marginLeft="5dp"
                 android:fontFamily="@font/jua"
                 android:text="@string/historial_trans"
                 android:textColor="@color/black"
@@ -213,7 +214,7 @@
                         android:layout_weight="1"
                         android:fontFamily="@font/jua"
                         android:text="@string/fecha_1"
-                        android:textColor="@color/plomoClaro"
+                        android:textColor="@color/plomo"
                         android:textSize="12sp" />
                 </LinearLayout>
 
@@ -272,7 +273,7 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/jua"
                         android:text="@string/fecha_2"
-                        android:textColor="@color/plomoClaro"
+                        android:textColor="@color/plomo"
                         android:textSize="12sp" />
                 </LinearLayout>
 
@@ -331,7 +332,7 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/jua"
                         android:text="@string/fecha_3"
-                        android:textColor="@color/plomoClaro"
+                        android:textColor="@color/plomo"
                         android:textSize="12sp" />
                 </LinearLayout>
 
@@ -391,7 +392,7 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/jua"
                         android:text="@string/fecha_4"
-                        android:textColor="@color/plomoClaro"
+                        android:textColor="@color/plomo"
                         android:textSize="12sp" />
                 </LinearLayout>
 
@@ -450,7 +451,7 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/jua"
                         android:text="@string/fecha_5"
-                        android:textColor="@color/plomoClaro"
+                        android:textColor="@color/plomo"
                         android:textSize="12sp" />
                 </LinearLayout>
 

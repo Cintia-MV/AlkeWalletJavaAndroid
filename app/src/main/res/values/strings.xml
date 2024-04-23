@@ -22,7 +22,8 @@
     <string name="saldo">Saldo Total</string>
     <string name="enviar_dinero">Enviar Dinero</string>
     <string name="ingresar_dinero">Ingresar dinero</string>
-    <string name="historial_trans">Ultimas transacciones</string>
+    <string name="historial_trans">Últimas transacciones</string>
+    <string name="sin_transacciones">¡No hay transacciones registradas!</string>
 
     <!-- Usuarios transacciones-->
     <string name="user_1">Gerald Johanssen</string>
@@ -45,7 +46,6 @@
     <string name="fecha_3">Oct 11, 11:19 AM</string>
     <string name="fecha_4">Oct 07, 09:10 PM</string>
     <string name="fecha_5">Oct 04, 08:45 AM</string>
-
 
 
 </resources>
