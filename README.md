@@ -4,12 +4,15 @@
 Este proyecto consiste en una aplicación de "Billetera Digital" para dispositivos Android. La aplicación consta de 9 pantallas relacionadas que permiten al usuario realizar diversas acciones relacionadas con la gestión de su dinero de forma digital. Para la navegación entre las pantallas, se ha implementado lógica de programación utilizando intents. Cada pantalla está asociada a un activity en el cual se gestionan las acciones del usuario y se realizan las transiciones entre pantallas al hacer clic en los botones correspondientes.
 
 ## Pantallas
-1. **Pantalla Splash Screen:** Pantalla principal de la aplicación.
+1. **Pantalla Splash Screen:** Pantalla principal de la aplicación. Se mantiene visible al inicio de la app durante 3 segundos y luego pasa a la pantalla "Login/Singup Page"
 
-![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/a8d92101-ea84-46ea-ab87-f2323efcd4d5)
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/0c5e21b8-8c17-4486-9428-19f2cac24d6d)
 
 
 2. **Pantalla Login / Signup Page** Los botones de esta pantalla nos dan la opción de ir a Singup Page para crear una cuenta o al login para iniciar sesión.
+
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/a8d92101-ea84-46ea-ab87-f2323efcd4d5)
+
 3. **Pantalla Login Page:** Permite iniciar sesión ingresando usuario y contraseña.
 4. **Pantalla Signup Page:** Permite al usuario crear una nueva cuenta de billetera digital
 5. **Pantalla Home Page:** Muestra nombre, foto y saldo del usuario, junto con un historial de las últimas transacciones.
