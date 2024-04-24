@@ -18,8 +18,8 @@
 
         <LinearLayout
             android:id="@+id/linearLayout"
-            android:layout_width="350dp"
-            android:layout_height="480dp"
+            android:layout_width="351dp"
+            android:layout_height="545dp"
             android:orientation="vertical"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
@@ -49,7 +49,7 @@
             <EditText
                 android:id="@+id/hintNombreP4"
                 android:layout_width="match_parent"
-                android:layout_height="42dp"
+                android:layout_height="50dp"
                 android:layout_marginBottom="16dp"
                 android:background="@drawable/redondear_borde_form"
                 android:ems="10"
@@ -68,7 +68,7 @@
             <EditText
                 android:id="@+id/hintApellP4"
                 android:layout_width="match_parent"
-                android:layout_height="42dp"
+                android:layout_height="50dp"
                 android:layout_marginBottom="16dp"
                 android:background="@drawable/redondear_borde_form"
                 android:ems="10"
@@ -87,7 +87,7 @@
             <EditText
                 android:id="@+id/hintEmailP4"
                 android:layout_width="match_parent"
-                android:layout_height="42dp"
+                android:layout_height="50dp"
                 android:layout_marginBottom="16dp"
                 android:background="@drawable/redondear_borde_form"
                 android:ems="10"
@@ -106,7 +106,7 @@
             <EditText
                 android:id="@+id/hintClaveP4"
                 android:layout_width="match_parent"
-                android:layout_height="42dp"
+                android:layout_height="50dp"
                 android:layout_marginBottom="16dp"
                 android:background="@drawable/redondear_borde_form"
                 android:ems="10"
@@ -125,7 +125,7 @@
             <EditText
                 android:id="@+id/reingClaveP4"
                 android:layout_width="match_parent"
-                android:layout_height="42dp"
+                android:layout_height="50dp"
                 android:background="@drawable/redondear_borde_form"
                 android:ems="10"
                 android:fontFamily="@font/jua"
@@ -146,7 +146,7 @@
             app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/linearLayout"
-            app:layout_constraintVertical_bias="0.198" />
+            app:layout_constraintVertical_bias="0.166" />
 
         <TextView
             android:id="@+id/loginP4"

@@ -8,6 +8,7 @@
     tools:context=".LoginPage">
 
     <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/contraintLayoutp3"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/fondo_avion"
@@ -54,7 +55,7 @@
             <EditText
                 android:id="@+id/hintEmailP3"
                 android:layout_width="match_parent"
-                android:layout_height="40dp"
+                android:layout_height="50dp"
                 android:layout_marginBottom="16dp"
                 android:background="@drawable/redondear_borde_form"
                 android:ems="10"
@@ -75,7 +76,7 @@
             <EditText
                 android:id="@+id/claveHintP3"
                 android:layout_width="match_parent"
-                android:layout_height="37dp"
+                android:layout_height="50dp"
                 android:layout_marginBottom="16dp"
                 android:background="@drawable/redondear_borde_form"
                 android:ems="10"

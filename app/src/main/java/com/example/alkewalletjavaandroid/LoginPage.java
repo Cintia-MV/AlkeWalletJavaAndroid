@@ -22,11 +22,12 @@ public class LoginPage extends AppCompatActivity {
         setContentView(R.layout.activity_login_page);
 
         crearCuenta = findViewById(R.id.crearCtaP3);
+        login = findViewById(R.id.btnP3);
 
         crearCuenta.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent crearCuenta = new Intent(LoginPage.this, LoginSingup.class);
+                Intent crearCuenta = new Intent(LoginPage.this, SingUnPage.class);
                 startActivity(crearCuenta);
             }
         });
@@ -34,7 +35,7 @@ public class LoginPage extends AppCompatActivity {
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent login = new Intent(LoginPage.this, HomePage.class);
+                Intent login = new Intent(LoginPage.this, HomePageEmptyCase.class);
                 startActivity(login);
             }
         });
