@@ -5,6 +5,7 @@ Este proyecto consiste en una aplicación de "Billetera Digital" para dispositiv
 
 ## Pantallas
 1. **Pantalla Splash Screen:** Pantalla principal de la aplicación.
+
 ![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/a8d92101-ea84-46ea-ab87-f2323efcd4d5)
 
 
