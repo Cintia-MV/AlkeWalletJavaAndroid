@@ -6,7 +6,7 @@ Este proyecto consiste en una aplicación de "Billetera Digital" para dispositiv
 ## Pantallas
 1. **Pantalla Splash Screen:** Pantalla principal de la aplicación. Se mantiene visible al inicio de la app durante 3 segundos y luego pasa a la pantalla "Login/Singup Page"
 
-![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/0c5e21b8-8c17-4486-9428-19f2cac24d6d)
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/0c5e21b8-8c17-4486-9428-19f2cac24d6d){: .center-image }
 
 2. **Pantalla Login / Signup Page:** Los botones de esta pantalla nos dan la opción de ir a Singup Page para crear una cuenta o al login para iniciar sesión. Al dar clic en el botón "Crear cuenta" redirecciona a la pantalla Singup Page. Al dar clic en "Ya tiene cuenta" redirecciona a la pantalla Login Page.
 
