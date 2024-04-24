@@ -28,12 +28,19 @@ Este proyecto consiste en una aplicación de "Billetera Digital" para dispositiv
 
 6. **Pantalla Home Page - Empty Case:** Muestra los mismo datos que la pantalla Home Page, pero se muestra en caso que el usuario no haya realizado transacciones. Al dar clic en "Inicio" redirecciona a Home Page(momentaneamente, hasta que se implemente la lógica completa de cada pantalla). Al dar clic en el botón "Enviar dinero" redirecciona a la pantalla Send Money. Al dar clic en "Ingresar dinero" redirecciona a la pantalla Request Money. Al dar clic en el nombre del usuario redirecciona a Profile Page.
 
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/07ee3c9a-2eb9-4780-a1c2-5df5a524e61a)
 
+7. **Pantalla Profile Page:** Permite al usuario configurar su cuenta de billetera digital. 
 
-7. **Pantalla Profile Page:** Permite al usuario configurar su cuenta de billetera digital.
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/a3ca2463-19b6-4194-84f1-1a563e549a4e)
+
 8. **Pantalla Send Money:**  Permite al usuario enviar dinero a otros usuarios.
+
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/2d1990b1-a447-4238-a96e-a72c362f8bdc)
+
 9. **Pantalla Request Money:** Permite al usuario solicitar dinero a otros usuarios.
 
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/b4e04b04-c540-4fae-a8d6-f753a6296656)
 
 
 ## Autor
