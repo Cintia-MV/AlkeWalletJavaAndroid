@@ -24,7 +24,8 @@ Este proyecto consiste en una aplicación de "Billetera Digital" para dispositiv
 
 5. **Pantalla Home Page:** Muestra nombre, foto y saldo del usuario, junto con un historial de las últimas transacciones. Al dar clic en el botón "Enviar dinero" redirecciona a la pantalla Send Money. Al dar clic en "Ingresar dinero" redirecciona a la pantalla Request Money. Al dar clic en el nombre del usuario redirecciona a Profile Page.
 
-![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/b86832e2-8f2a-4516-a8f9-9b265fb33b88)
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/8c529e24-6824-414b-a6d8-4700a4512c5f)
+
 
 6. **Pantalla Home Page - Empty Case:** Muestra los mismo datos que la pantalla Home Page, pero se muestra en caso que el usuario no haya realizado transacciones. Al dar clic en "Inicio" redirecciona a Home Page(momentaneamente, hasta que se implemente la lógica completa de cada pantalla). Al dar clic en el botón "Enviar dinero" redirecciona a la pantalla Send Money. Al dar clic en "Ingresar dinero" redirecciona a la pantalla Request Money. Al dar clic en el nombre del usuario redirecciona a Profile Page.
 
