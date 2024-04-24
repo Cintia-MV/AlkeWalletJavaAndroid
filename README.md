@@ -13,17 +13,23 @@ Este proyecto consiste en una aplicación de "Billetera Digital" para dispositiv
 
 ![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/a8d92101-ea84-46ea-ab87-f2323efcd4d5)
 
-3. **Pantalla Login Page:** Permite iniciar sesión ingresando usuario y contraseña.  Al dar clic en "Crear cuenta" redirecciona a la pantalla Singup Page. Al dar clic en el botón "Iniciar sesión" redirecciona a la pantalla Home Page.
+3. **Pantalla Login Page:** Permite iniciar sesión ingresando usuario y contraseña.  Al dar clic en "Crear cuenta" redirecciona a la pantalla Singup Page. Al dar clic en el botón "Iniciar sesión" redirecciona a la pantalla Home Page-Empty Case.
 
 ![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/9f2b50d3-7fd0-40c5-b67a-16520b5e2d96)
 
 
 4. **Pantalla Signup Page:** Permite al usuario crear una nueva cuenta de billetera digital. Al dar clic en botón "Crear cuenta" redirecciona a la pantalla Login Page. Al dar clic en "Ya tiene cuenta" redirecciona a la pantalla Login Page.
 
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/36ab3c24-cf4d-48e3-933e-aefedd150739)
+
+5. **Pantalla Home Page:** Muestra nombre, foto y saldo del usuario, junto con un historial de las últimas transacciones. Al dar clic en el botón "Enviar dinero" redirecciona a la pantalla Send Money. Al dar clic en "Ingresar dinero" redirecciona a la pantalla Request Money. Al dar clic en el nombre del usuario redirecciona a Profile Page.
+
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/b86832e2-8f2a-4516-a8f9-9b265fb33b88)
+
+6. **Pantalla Home Page - Empty Case:** Muestra los mismo datos que la pantalla Home Page, pero se muestra en caso que el usuario no haya realizado transacciones. Al dar clic en "Inicio" redirecciona a Home Page(momentaneamente, hasta que se implemente la lógica completa de cada pantalla). Al dar clic en el botón "Enviar dinero" redirecciona a la pantalla Send Money. Al dar clic en "Ingresar dinero" redirecciona a la pantalla Request Money. Al dar clic en el nombre del usuario redirecciona a Profile Page.
 
 
-5. **Pantalla Home Page:** Muestra nombre, foto y saldo del usuario, junto con un historial de las últimas transacciones.
-6. **Pantalla Home Page - Empty Case:** Muestra los mismo datos que la pantalla Home Page, pero se muestra en caso que el usuario no haya realizado transacciones.
+
 7. **Pantalla Profile Page:** Permite al usuario configurar su cuenta de billetera digital.
 8. **Pantalla Send Money:**  Permite al usuario enviar dinero a otros usuarios.
 9. **Pantalla Request Money:** Permite al usuario solicitar dinero a otros usuarios.
