@@ -9,12 +9,19 @@ Este proyecto consiste en una aplicación de "Billetera Digital" para dispositiv
 ![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/0c5e21b8-8c17-4486-9428-19f2cac24d6d)
 
 
-2. **Pantalla Login / Signup Page** Los botones de esta pantalla nos dan la opción de ir a Singup Page para crear una cuenta o al login para iniciar sesión.
+2. **Pantalla Login / Signup Page** Los botones de esta pantalla nos dan la opción de ir a Singup Page para crear una cuenta o al login para iniciar sesión. Al dar clic en el botón "Crear cuenta" redirecciona a la pantalla Singup Page. Al dar clic en "Ya tiene cuenta" redirecciona a la pantalla Login Page.
 
 ![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/a8d92101-ea84-46ea-ab87-f2323efcd4d5)
 
-3. **Pantalla Login Page:** Permite iniciar sesión ingresando usuario y contraseña.
-4. **Pantalla Signup Page:** Permite al usuario crear una nueva cuenta de billetera digital
+3. **Pantalla Login Page:** Permite iniciar sesión ingresando usuario y contraseña.  Al dar clic en "Crear cuenta" redirecciona a la pantalla Singup Page. Al dar clic en el botón "Iniciar sesión" redirecciona a la pantalla Home Page.
+
+![image](https://github.com/Cintia-MV/AlkeWalletJavaAndroid/assets/99772130/9f2b50d3-7fd0-40c5-b67a-16520b5e2d96)
+
+
+4. **Pantalla Signup Page:** Permite al usuario crear una nueva cuenta de billetera digital. Al dar clic en botón "Crear cuenta" redirecciona a la pantalla Login Page. Al dar clic en "Ya tiene cuenta" redirecciona a la pantalla Login Page.
+
+
+
 5. **Pantalla Home Page:** Muestra nombre, foto y saldo del usuario, junto con un historial de las últimas transacciones.
 6. **Pantalla Home Page - Empty Case:** Muestra los mismo datos que la pantalla Home Page, pero se muestra en caso que el usuario no haya realizado transacciones.
 7. **Pantalla Profile Page:** Permite al usuario configurar su cuenta de billetera digital.
